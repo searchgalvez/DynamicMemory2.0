@@ -1,0 +1,6 @@
+Write your debugging steps and thought process here (This is part of your grade)
+
+Lines 6 and 7 are duplicated on item.cpp
+delete method needs to be used after variable is used
+used delete method to reduce memory used after the loop in store.cpp
+deleted array after printed in inventory.h
